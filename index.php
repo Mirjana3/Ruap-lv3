@@ -45,7 +45,7 @@ font-size: 1.75em;
 </head>
 <body>
  <h1>Register here!</h1>
- <p>Fill in your name and email address, then click <strong>Submit</strong> to
+ <p>Fill in your name and email address, then click <strong>Submit</strong> to bhjhhjhgjgh
 register.</p>
  <form method="post" action="index.php" enctype="multipart/form-data">
  Name
@@ -114,4 +114,5 @@ echo "Insert Failed";
 }
 ?>
 </body>
+
 </html>
